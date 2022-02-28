@@ -1,4 +1,9 @@
 学习使用github
 commit 2
 commit 3
+<<<<<<< HEAD
 commit 4
+=======
+commit 4
+commit 5
+>>>>>>> 381d24bf6e53d559852105a789138b5cdfc2ece0
