@@ -1,9 +1,4 @@
 学习使用github
-<<<<<<< HEAD
 commit 2
 commit 3
-my-branch
-=======
-
-my-branch
->>>>>>> 4e5af4a82d8ae51db0bbeb4e73a8c119c4b4c5e6
+commit 4
