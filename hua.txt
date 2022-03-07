@@ -1,1 +1,3 @@
 hua-commit1
+
+squash2
